@@ -1,5 +1,5 @@
-# Session 11 (task1)
-The School of AI - END3 Course, Session 11 Assignment Task 1
+# Session 11 (task3)
+The School of AI - END3 Course, Session 11 Assignment Task 3
 
 *Group Members: Dhruba Adhikary, Phani Nandula, Prateek Maheshwari, Sujit Ojha*
 
