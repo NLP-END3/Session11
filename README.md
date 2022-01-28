@@ -15,5 +15,5 @@ These are the assignments that you'd be doing this and next week!
     - Submit README link for Task 3 (training log snippets and 5 sample results along with BART description must be available)
 
 # Solutions
-- Task 1 : [README_task1.md](Readme)
-- Task 2 : [README_task2.md](Readme)
+- Task 1 : [readme](README_task1.md)
+- Task 2 : [readme](README_task1.md)
