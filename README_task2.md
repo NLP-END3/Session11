@@ -11,6 +11,9 @@ These are the assignments that you'd be doing this and next week!
 - **Proceed to Session 11** - Assignment Solutions page and:
     - Submit README link for Task 2 (training log snippets and 5 sample results)
 
+# Notebook
+- [Link](BERT_Fine_Tuning_Sentence_Classification_v4.ipynb) 
+
 # Training Logs
 ![TrainingLogs](images/task2_training_log1.png)
 ![TrainingLogs](images/task2_training_log2.png)
