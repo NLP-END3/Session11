@@ -15,5 +15,5 @@ These are the assignments that you'd be doing this and next week!
     - Submit README link for Task 3 (training log snippets and 5 sample results along with BART description must be available)
 
 # Solutions
-- Task 1 : [readme](README_task1.md)
-- Task 2 : [readme](README_task2.md)
+- Task 1 : [readme](README_task1.md) and [notebook](BERT_Tutorial_How_To_Build_a_Question_Answering_Bot.ipynb)
+- Task 2 : [readme](README_task2.md) and [notebook](BERT_Fine_Tuning_Sentence_Classification_v4.ipynb)

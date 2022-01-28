@@ -1,5 +1,5 @@
-# Session 11
-The School of AI - END3 Course, Session 11 Assignment
+# Session 11 (task1)
+The School of AI - END3 Course, Session 11 Assignment Task 1
 
 *Group Members: Dhruba Adhikary, Phani Nandula, Prateek Maheshwari, Sujit Ojha*
 
@@ -10,6 +10,15 @@ These are the assignments that you'd be doing this and next week!
 - **Proceed to Session 11** - Assignment Solutions page and:
     - Submit README link for Task 1 (training log snippets and 5 sample results along with BERT description must be available)
 
+# Notebook
+- [Link](BERT_Tutorial_How_To_Build_a_Question_Answering_Bot.ipynb) 
+
 # Training Logs
+![TrainingLogs](images/task1_training_log.png)
 
 # Sample Results
+![Example1](images/task1_example1.png)
+![Example2](images/task1_example2.png)
+![Example3](images/task1_example3.png)
+![Example4](images/task1_example4.png)
+![Example5](images/task1_example5.png)
