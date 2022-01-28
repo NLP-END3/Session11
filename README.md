@@ -17,3 +17,4 @@ These are the assignments that you'd be doing this and next week!
 # Solutions
 - Task 1 : [readme](README_task1.md) and [notebook](BERT_Tutorial_How_To_Build_a_Question_Answering_Bot.ipynb)
 - Task 2 : [readme](README_task2.md) and [notebook](BERT_Fine_Tuning_Sentence_Classification_v4.ipynb)
+- Task 3 : [readme](README_task3.md) and [notebook](BART_paraphrasing.ipynb)
