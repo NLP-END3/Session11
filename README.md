@@ -16,4 +16,4 @@ These are the assignments that you'd be doing this and next week!
 
 # Solutions
 - Task 1 : [readme](README_task1.md)
-- Task 2 : [readme](README_task1.md)
+- Task 2 : [readme](README_task2.md)
