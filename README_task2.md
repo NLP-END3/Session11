@@ -12,5 +12,10 @@ These are the assignments that you'd be doing this and next week!
     - Submit README link for Task 2 (training log snippets and 5 sample results)
 
 # Training Logs
+![TrainingLogs](images/task2_training_log1.png)
+![TrainingLogs](images/task2_training_log2.png)
+![TrainingLogs](images/task2_training_log3.png)
+![TrainingLogs](images/task2_training_log4.png)
 
 # Sample Results
+![Example](images/task2_example.png)
